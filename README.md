@@ -1,2 +1,2 @@
 # CompnetLab
- Computer Network Lab course
+ Computer Networks Lab course
